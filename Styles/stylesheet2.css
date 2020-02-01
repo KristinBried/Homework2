@@ -342,6 +342,7 @@ h2 {
     .nav-button {
       font-size: small;
       display: block;
+      margin: 10px;
         }
 /* End of header */
     .landing-page {
@@ -371,11 +372,6 @@ h2 {
         grid-row: 2/3;
         }
 
-      /* varbut bus jādzēš 
-        .ad {
-        grid-column: none;
-        grid-row: none;
-        }*/
 
 /* Hero part ended */
         .body-sidebar {
@@ -405,6 +401,12 @@ h2 {
         .ad {
             grid-column: 1/2;
             grid-row: 3/4;
+               
+        }
+        
+        .hero-poga {
+            grid-column: 2/4;
+            grid-row: 2/4;
         }
       
 
@@ -476,10 +478,14 @@ h2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px
 }
 
 .art-lama-landing {
     max-width: 575px;
+    margin-bottom: 20px;
+    margin-top: 10px;
 }
 
 .zoo {
