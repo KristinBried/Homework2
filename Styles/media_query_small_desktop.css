@@ -1,0 +1,24 @@
+@media screen and (max-width: 1300px) {
+    .nav-button {
+        font-size: medium;
+        display: block;
+        margin: 5px;
+          }
+
+          .hero-poga {
+    padding: 30px;
+    font-size: medium;
+    }
+
+    body {
+        font-size: medium; 
+    }
+
+.art-lama {
+    width: 80%;
+    height: auto;
+}
+
+
+
+}
