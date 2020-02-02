@@ -311,6 +311,7 @@ a:link {
 .footer1 {
     grid-column: 1/2;
     font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
 }
 
 .footer2 {
@@ -348,4 +349,9 @@ h2 {
 
 .sidebar-3 {
     display: none;
+}
+
+figcaption {
+    background-color: white;
+    line-height: 1;   
 }
