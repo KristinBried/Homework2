@@ -99,17 +99,17 @@
             grid-row: 3/4;
             height: 150px;
             display: grid;
-            grid-template-columns: 1fr 1fr 1fr 1fr;
-            grid-template-rows: 1f 1fr 1fr 1fr 1fr;
+            grid-template-columns: 25% 25% 25% 25%r;
+            grid-template-rows: 25% 25% 25% 25%;
             justify-items: center;
-        margin-bottom: 15px;
+            margin-bottom: 15px;
         }
         
         .hero-poga {
             grid-column: 2/4;
-            grid-row: 3/4;
-            font-size: 10px;
-            padding: 40px;
+            grid-row: 2/4;
+            font-size: xx-small;
+            padding: 30px;
                           }
       
 
